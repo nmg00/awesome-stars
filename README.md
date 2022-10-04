@@ -127,7 +127,7 @@
 | 12 |  [alfred-hl](https://github.com/importre/alfred-hl) | :high_brightness: Syntax highlight code in the clipboard | importre | 91 |
 | 13 |  [alfred-workflows](https://github.com/willfarrell/alfred-workflows) | Alfred Workflows for Developers | willfarrell | 1939 |
 | 14 |  [alfred-workflows](https://github.com/rknightuk/alfred-workflows) | Alfred workflows I use. Script to automatically export. | rknightuk | 115 |
-| 15 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 30-seconds | 103377 |
+| 15 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 30-seconds | 103378 |
 | 16 |  [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) | Code documentation written as code! How novel and totally my idea! | adambard | 10073 |
 | 17 |  [snipster](https://github.com/jhanstra/snipster) | Publish all of your snippets to all of your editors with one command | jhanstra | 15 |
 | 18 |  [demos](https://github.com/JKirchartz/demos) | Demonstrations &amp; Ideas. | JKirchartz | 5 |
@@ -194,7 +194,7 @@
 | 21 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 37136 |
 | 22 |  [oneliners](https://github.com/icyflame/oneliners) | Bash one-liners that are always useful :heart: | icyflame | 9 |
 | 23 |  [requested-alfred-workflows](https://github.com/vitorgalvao/requested-alfred-workflows) | Short Alfred Workflows made for forum users | vitorgalvao | 26 |
-| 24 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 221709 |
+| 24 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 221710 |
 | 25 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 79620 |
 | 26 |  [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) | A curated list of dotfiles resources. | webpro | 7241 |
 | 27 |  [Dot-It-Up](https://github.com/Torbet/Dot-It-Up) | A collection of dotfile scripts, plugins, and clever hacks so that you can become the master of your own OS! 🚀 | Torbet | 258 |
